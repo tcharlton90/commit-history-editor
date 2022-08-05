@@ -14,7 +14,7 @@ HEIGHT=7
 
 class CommitEditor:
 
-    TAGNAME = 'commit-editor-start'
+    TAGNAME = 'commit-editor-start-0'
     DEPTH = {'.': 1,
              '=': 51,
              '+': 101,
